@@ -1,3 +1,3 @@
 # FAT_12-Reader
 
-Reader of FAT12 volume.
+My own implementation of the FAT12 volume reader.
